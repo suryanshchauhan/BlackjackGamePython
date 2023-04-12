@@ -1,3 +1,5 @@
+<h1>Blackjack Game in Python</h2>
+
 <p>This is a simple implementation of the popular game of Blackjack. The program is written in Python and uses the <code>random</code> module to simulate the deck of cards. It also includes ASCII art to make it more visually appealing.</p>
 
 <h2>Getting Started</h2>
